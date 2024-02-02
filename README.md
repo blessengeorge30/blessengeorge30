@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessen George</h1>
-- 🔭 I’m currently working on **React-native**
+- 🔭 I’m currently working on React-native
 
-- 🌱 I’m currently learning **the fundamental concepts of javascript**
+- 🌱 I’m currently learning **the advanced concepts of javascript**
 
 - 👯 I’m looking to collaborate on **Mern-stack**
 
