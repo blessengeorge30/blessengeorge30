@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Blessen George</h1>
-<h2 align="center">:
+<h2 align="center">
 
 👋 Hello, fellow developers! I'm a passionate JavaScript enthusiast and front-end developer.
 
 🚀 I specialize in building scalable web applications using the latest JavaScript technologies.</h2>
 
-<h3>🌐 Open Source Contributor: I believe in the power of collaboration and have actively contributed to several open-source projects.
-
-💡 Always Learning: In the ever-evolving world of web development, I stay up-to-date with the latest trends and technologies to deliver cutting-edge solutions.
-
-👨‍💻 Let's Collaborate: I'm open to new opportunities, collaborations, and interesting projects. Feel free to reach out for discussions, code reviews, or just to grab a virtual coffee!</h3>
  
 - 🔭 I’m currently working on React-native
 
 - 🌱 I’m currently learning **the advanced concepts of javascript**
-
-- 👯 I’m looking to collaborate on **Mern-stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blessengeorge30](https://github.com/blessengeorge30)
 
