@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessen George</h1>
 <h2 align="center">
 
-🚀 Full-stack developer exploring the digital universe 🌐 || Pixel craftsman 🎨 | Debugger by day, stargazer by night 🌌 | Turning coffee into code ☕ | Fluent in Python, JavaScript, and memes 😎 | Always chasing the next tech adventure 🚁 | Ctrl+S enthusiast | 01001000 01100101 01101100 01101100 01101111 World! 👋
+🚀Passionate coder 🚀 | Software engineer 💻 | Open source enthusiast 🌐 | Lifelong learner 📚 | Exploring the endless possibilities of code ✨ 
 </h2>
 
  
