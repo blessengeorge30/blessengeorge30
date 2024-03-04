@@ -9,7 +9,6 @@ Passionate coder 🚀 | Software engineer 💻 | Open source enthusiast 🌐 | E
 
 - 🌱 I’m currently learning **the advanced concepts of javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/blessengeorge30](https://github.com/blessengeorge30)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
