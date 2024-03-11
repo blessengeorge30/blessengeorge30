@@ -20,7 +20,7 @@ Git and Version control
  
 - 🔭 I’m currently working on React-native
 
-- 🌱 I’m currently learning **the advanced concepts of javascript**
+- 🌱 I’m currently learning **the advanced concepts of Javascript**
 
 
 <h3 align="left">Connect with me:</h3>
