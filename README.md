@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Blessen George</h1>
 <h2 align="center">
 
-Passionate coder 🚀 | Software engineer 💻 | Open source enthusiast 🌐 | Exploring the endless possibilities of code ✨ 
+Dedicated Java-Script developer with a passion for crafting efficient and user-friendly mobile applications. I specialize in creating cross-platform experiences that deliver a seamless blend of performance and aesthetics.
+
+🛠️ Technical Skills:
+
+React Native
+JavaScript (ES6+)
+Redux and Context API
+RESTful APIs integration
+Unit and integration testing
+Git and version control
+
 </h2>
 
  
