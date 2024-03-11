@@ -7,10 +7,10 @@ Dedicated Java-Script developer with a passion for crafting efficient and user-f
 <h2>
  🛠️ Technical Skills:
 
-React Native
-JavaScript (ES6+)
-Redux and Context API
-Unit and integration testing
+React Native,
+JavaScript (ES6+),
+Redux and Context API,
+Unit and integration testing &
 Git and Version control
 </h2>
 
