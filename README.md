@@ -3,7 +3,9 @@
 
 Dedicated Java-Script developer with a passion for crafting efficient and user-friendly mobile applications. I specialize in creating cross-platform experiences that deliver a seamless blend of performance and aesthetics.
 
-🛠️ Technical Skills:
+</h2>
+<h2>
+ 🛠️ Technical Skills:
 
 React Native
 JavaScript (ES6+)
@@ -11,7 +13,6 @@ Redux and Context API
 RESTful APIs integration
 Unit and integration testing
 Git and version control
-
 </h2>
 
  
