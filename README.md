@@ -10,10 +10,10 @@ Dedicated Java-Script developer with a passion for crafting efficient and user-f
 React Native
 JavaScript (ES6+)
 Redux and Context API
-RESTful APIs integration
 Unit and integration testing
-Git and version control
+Git and Version control
 </h2>
+
 
  
 - 🔭 I’m currently working on React-native
