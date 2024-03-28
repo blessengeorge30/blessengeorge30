@@ -18,7 +18,7 @@ Git and Version control
 
 
  
-- 🔭 I’m currently working on React-native
+- 🔭 I’m currently working on Node.js and Mongo-DB
 
 - 🌱 I’m currently learning **the advanced concepts of Javascript**
 
