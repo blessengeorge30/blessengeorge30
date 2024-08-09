@@ -9,7 +9,7 @@ Dedicated Java-Script developer with a passion for crafting efficient and user-f
 </h2>
  
 <h3>
-React Native,
+React Native,React.JS
 JavaScript (ES6+),
 Redux and Context API,
 Unit and integration testing &
